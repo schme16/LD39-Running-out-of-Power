@@ -5,14 +5,17 @@ using UnityEngine;
 public class StageScript : MonoBehaviour {
 
 
-	void Start () {
-		
+	public PlayerScript player;
 
+
+	public PowerBarScript PowerBar;
+
+	void Start () {
 		NewGame(true);
 	}
 
 	void NewGame (bool FirstRun) {
-
+		//player
 	}
 
 	

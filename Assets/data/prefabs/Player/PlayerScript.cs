@@ -8,6 +8,8 @@ public class PlayerScript : MonoBehaviour {
 	public float y;
 	public float speed = 10f;
 	public GameObject sprite;
+	public float PowerLevel;
+	public float PowerLevelDrainRate;
 	
 	private Rigidbody2D rb;
 	private Animator anim;
@@ -40,7 +42,12 @@ public class PlayerScript : MonoBehaviour {
 			anim.Play("stand");
 		}
 		else {
+			PowerLevel = PowerLevel - PowerLevelDrainRate * Time.deltaTime;
 			anim.Play("walk");
 		}
+
+
+		PowerLevel = Mathf.Min(100, Mathf.Max(0, PowerLevel));
+
 	}
 }

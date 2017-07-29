@@ -1,0 +1,2987 @@
+fileFormatVersion: 2
+guid: 4625e187f395cdd46b198eca8296a4d1
+timeCreated: 1501301245
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player-anim0001
+    21300002: player-anim0002
+    21300004: player-anim0003
+    21300006: player-anim0004
+    21300008: player-anim0005
+    21300010: player-anim0006
+    21300012: player-anim0007
+    21300014: player-anim0008
+    21300016: player-anim0009
+    21300018: player-anim0010
+    21300020: player-anim0011
+    21300022: player-anim0012
+    21300024: player-anim0013
+    21300026: player-anim0014
+    21300028: player-anim0015
+    21300030: player-anim0016
+    21300032: player-anim0017
+    21300034: player-anim0018
+    21300036: player-anim0019
+    21300038: player-anim0020
+    21300040: player-anim0021
+    21300042: player-anim0022
+    21300044: player-anim0023
+    21300046: player-anim0024
+    21300048: player-anim0025
+    21300050: player-anim0026
+    21300052: player-anim0027
+    21300054: player-anim0028
+    21300056: player-anim0029
+    21300058: player-anim0030
+    21300060: player-anim0031
+    21300062: player-anim0032
+    21300064: player-anim0033
+    21300066: player-anim0034
+    21300068: player-anim0035
+    21300070: player-anim0036
+    21300072: player-anim0037
+    21300074: player-anim0038
+    21300076: player-anim0039
+    21300078: player-anim0040
+    21300080: player-anim0041
+    21300082: player-anim0042
+    21300084: player-anim0043
+    21300086: player-anim0044
+    21300088: player-anim0045
+    21300090: player-anim0046
+    21300092: player-anim0047
+    21300094: player-anim0048
+    21300096: player-anim0049
+    21300098: player-anim0050
+    21300100: player-anim0051
+    21300102: player-anim0052
+    21300104: player-anim0053
+    21300106: player-anim0054
+    21300108: player-anim0055
+    21300110: player-anim0056
+    21300112: player-anim0057
+    21300114: player-anim0058
+    21300116: player-anim0059
+    21300118: player-anim0060
+    21300120: player-anim0061
+    21300122: player-anim0062
+    21300124: player-anim0063
+    21300126: player-anim0064
+    21300128: player-anim0065
+    21300130: player-anim0066
+    21300132: player-anim0067
+    21300134: player-anim0068
+    21300136: player-anim0069
+    21300138: player-anim0070
+    21300140: player-anim0071
+    21300142: player-anim0072
+    21300144: player-anim0073
+    21300146: player-anim0074
+    21300148: player-anim0075
+    21300150: player-anim0076
+    21300152: player-anim0077
+    21300154: player-anim0078
+    21300156: player-anim0079
+    21300158: player-anim0080
+    21300160: player-anim0081
+    21300162: player-anim0082
+    21300164: player-anim0083
+    21300166: player-anim0084
+    21300168: player-anim0085
+    21300170: player-anim0086
+    21300172: player-anim0087
+    21300174: player-anim0088
+    21300176: player-anim0089
+    21300178: player-anim0090
+    21300180: player-anim0091
+    21300182: player-anim0092
+    21300184: player-anim0093
+    21300186: player-anim0094
+    21300188: player-anim0095
+    21300190: player-anim0096
+    21300192: player-anim0097
+    21300194: player-anim0098
+    21300196: player-anim0099
+    21300198: player-anim0100
+    21300200: player-anim0101
+    21300202: player-anim0102
+    21300204: player-anim0103
+    21300206: player-anim0104
+    21300208: player-anim0105
+    21300210: player-anim0106
+    21300212: player-anim0107
+    21300214: player-anim0108
+    21300216: player-anim0109
+    21300218: player-anim0110
+    21300220: player-anim0111
+    21300222: player-anim0112
+    21300224: player-anim0113
+    21300226: player-anim0114
+    21300228: player-anim0115
+    21300230: player-anim0116
+    21300232: player-anim0117
+    21300234: player-anim0118
+    21300236: player-anim0119
+    21300238: player-anim0120
+    21300240: player-anim0121
+    21300242: player-anim0122
+    21300244: player-anim0123
+    21300246: player-anim0124
+    21300248: player-anim0125
+    21300250: player-anim0126
+    21300252: player-anim0127
+    21300254: player-anim0128
+    21300256: player-anim0129
+    21300258: player-anim0130
+    21300260: player-anim0131
+    21300262: player-anim0132
+    21300264: player-anim0133
+    21300266: player-anim0134
+    21300268: player-anim0135
+    21300270: player-anim0136
+    21300272: player-anim0137
+    21300274: player-anim0138
+    21300276: player-anim0139
+    21300278: player-anim0140
+    21300280: player-anim0141
+    21300282: player-anim0142
+    21300284: player-anim0143
+    21300286: player-anim0144
+    21300288: player-anim0145
+    21300290: player-anim0146
+    21300292: player-anim0147
+    21300294: player-anim0148
+    21300296: player-anim0149
+    21300298: player-anim0150
+    21300300: player-anim0151
+    21300302: player-anim0152
+    21300304: player-anim0153
+    21300306: player-anim0154
+    21300308: player-anim0155
+    21300310: player-anim0156
+    21300312: player-anim0157
+    21300314: player-anim0158
+    21300316: player-anim0159
+    21300318: player-anim0160
+    21300320: player-anim0161
+    21300322: player-anim0162
+    21300324: player-anim0163
+    21300326: player-anim0164
+    21300328: player-anim0165
+    21300330: player-anim0166
+    21300332: player-anim0167
+    21300334: player-anim0168
+    21300336: player-anim0169
+    21300338: player-anim0170
+    21300340: player-anim0171
+    21300342: player-anim0172
+    21300344: player-anim0173
+    21300346: player-anim0174
+    21300348: player-anim0175
+    21300350: player-anim0176
+    21300352: player-anim0177
+    21300354: player-anim0178
+    21300356: player-anim0179
+    21300358: player-anim0180
+    21300360: player-anim0181
+    21300362: player-anim0182
+    21300364: player-anim0183
+    21300366: player-anim0184
+    21300368: player-anim0185
+    21300370: player-anim0186
+    21300372: player-anim0187
+    21300374: player-anim0188
+    21300376: player-anim0189
+    21300378: player-anim0190
+    21300380: player-anim0191
+    21300382: player-anim0192
+    21300384: player-anim0193
+    21300386: player-anim0194
+    21300388: player-anim0195
+    21300390: player-anim0196
+    21300392: player-anim0197
+    21300394: player-anim0198
+    21300396: player-anim0199
+    21300398: player-anim0200
+    21300400: player-anim0201
+    21300402: player-anim0202
+    21300404: player-anim0203
+    21300406: player-anim0204
+    21300408: player-anim0205
+    21300410: player-anim0206
+    21300412: player-anim0207
+    21300414: player-anim0208
+    21300416: player-anim0209
+    21300418: player-anim0210
+    21300420: player-anim0211
+    21300422: player-anim0212
+    21300424: player-anim0213
+    21300426: player-anim0214
+    21300428: player-anim0215
+    21300430: player-anim0216
+    21300432: player-anim0217
+    21300434: player-anim0218
+    21300436: player-anim0219
+    21300438: player-anim0220
+    21300440: player-anim0221
+    21300442: player-anim0222
+    21300444: player-anim0223
+    21300446: player-anim0224
+    21300448: player-anim0225
+    21300450: player-anim0226
+    21300452: player-anim0227
+    21300454: player-anim0228
+    21300456: player-anim0229
+    21300458: player-anim0230
+    21300460: player-anim0231
+    21300462: player-anim0232
+    21300464: player-anim0233
+    21300466: player-anim0234
+    21300468: player-anim0235
+    21300470: player-anim0236
+    21300472: player-anim0237
+    21300474: player-anim0238
+    21300476: player-anim0239
+    21300478: player-anim0240
+    21300480: player-anim0241
+    21300482: player-anim0242
+    21300484: player-anim0243
+    21300486: player-anim0244
+    21300488: player-anim0245
+    21300490: player-anim0246
+    21300492: player-anim0247
+    21300494: player-anim0248
+    21300496: player-anim0249
+    21300498: player-anim0250
+    21300500: player-anim0251
+    21300502: player-anim0252
+    21300504: player-anim0253
+    21300506: player-anim0254
+    21300508: player-anim0255
+    21300510: player-anim0256
+    21300512: player-anim0257
+    21300514: player-anim0258
+    21300516: player-anim0259
+    21300518: player-anim0260
+    21300520: player-anim0261
+    21300522: player-anim0262
+    21300524: player-anim0263
+    21300526: player-anim0264
+    21300528: player-anim0265
+    21300530: player-anim0266
+    21300532: player-anim0267
+    21300534: player-anim0268
+    21300536: player-anim0269
+    21300538: player-anim0270
+    21300540: RECOVER_player-anim.jpg0001
+    21300542: RECOVER_player-anim.jpg0002
+    21300544: RECOVER_player-anim.jpg0003
+    21300546: RECOVER_player-anim.jpg0004
+    21300548: RECOVER_player-anim.jpg0005
+    21300550: RECOVER_player-anim.jpg0006
+    21300552: RECOVER_player-anim.jpg0007
+    21300554: RECOVER_player-anim.jpg0008
+    21300556: RECOVER_player-anim.jpg0009
+    21300558: RECOVER_player-anim.jpg0010
+    21300560: RECOVER_player-anim.jpg0011
+    21300562: RECOVER_player-anim.jpg0012
+    21300564: RECOVER_player-anim.jpg0013
+    21300566: RECOVER_player-anim.jpg0014
+    21300568: RECOVER_player-anim.jpg0015
+    21300570: RECOVER_player-anim.jpg0016
+    21300572: RECOVER_player-anim.jpg0017
+    21300574: RECOVER_player-anim.jpg0018
+    21300576: RECOVER_player-anim.jpg0019
+    21300578: RECOVER_player-anim.jpg0020
+    21300580: RECOVER_player-anim.jpg0021
+    21300582: RECOVER_player-anim.jpg0022
+    21300584: RECOVER_player-anim.jpg0023
+    21300586: RECOVER_player-anim.jpg0024
+    21300588: RECOVER_player-anim.jpg0025
+    21300590: RECOVER_player-anim.jpg0026
+    21300592: RECOVER_player-anim.jpg0027
+    21300594: RECOVER_player-anim.jpg0028
+    21300596: RECOVER_player-anim.jpg0029
+    21300598: RECOVER_player-anim.jpg0030
+    21300600: RECOVER_player-anim.jpg0031
+    21300602: RECOVER_player-anim.jpg0032
+    21300604: RECOVER_player-anim.jpg0033
+    21300606: RECOVER_player-anim.jpg0034
+    21300608: RECOVER_player-anim.jpg0035
+    21300610: RECOVER_player-anim.jpg0036
+    21300612: RECOVER_player-anim.jpg0037
+    21300614: RECOVER_player-anim.jpg0038
+    21300616: RECOVER_player-anim.jpg0039
+    21300618: RECOVER_player-anim.jpg0040
+    21300620: RECOVER_player-anim.jpg0041
+    21300622: RECOVER_player-anim.jpg0042
+    21300624: RECOVER_player-anim.jpg0043
+    21300626: RECOVER_player-anim.jpg0044
+    21300628: RECOVER_player-anim.jpg0045
+    21300630: RECOVER_player-anim.jpg0046
+    21300632: RECOVER_player-anim.jpg0047
+    21300634: RECOVER_player-anim.jpg0048
+    21300636: RECOVER_player-anim.jpg0049
+    21300638: RECOVER_player-anim.jpg0050
+    21300640: RECOVER_player-anim.jpg0051
+    21300642: RECOVER_player-anim.jpg0052
+    21300644: RECOVER_player-anim.jpg0053
+    21300646: RECOVER_player-anim.jpg0054
+    21300648: RECOVER_player-anim.jpg0055
+    21300650: RECOVER_player-anim.jpg0056
+    21300652: RECOVER_player-anim.jpg0057
+    21300654: RECOVER_player-anim.jpg0058
+    21300656: RECOVER_player-anim.jpg0059
+    21300658: RECOVER_player-anim.jpg0060
+    21300660: RECOVER_player-anim.jpg0061
+    21300662: RECOVER_player-anim.jpg0062
+    21300664: RECOVER_player-anim.jpg0063
+    21300666: RECOVER_player-anim.jpg0064
+    21300668: RECOVER_player-anim.jpg0065
+    21300670: RECOVER_player-anim.jpg0066
+    21300672: RECOVER_player-anim.jpg0067
+    21300674: RECOVER_player-anim.jpg0068
+    21300676: RECOVER_player-anim.jpg0069
+    21300678: RECOVER_player-anim.jpg0070
+    21300680: RECOVER_player-anim.jpg0071
+    21300682: RECOVER_player-anim.jpg0072
+    21300684: RECOVER_player-anim.jpg0073
+    21300686: RECOVER_player-anim.jpg0074
+    21300688: RECOVER_player-anim.jpg0075
+    21300690: RECOVER_player-anim.jpg0076
+    21300692: RECOVER_player-anim.jpg0077
+    21300694: RECOVER_player-anim.jpg0078
+    21300696: RECOVER_player-anim.jpg0079
+    21300698: RECOVER_player-anim.jpg0080
+    21300700: RECOVER_player-anim.jpg0081
+    21300702: RECOVER_player-anim.jpg0082
+    21300704: RECOVER_player-anim.jpg0083
+    21300706: RECOVER_player-anim.jpg0084
+    21300708: RECOVER_player-anim.jpg0085
+    21300710: RECOVER_player-anim.jpg0086
+    21300712: RECOVER_player-anim.jpg0087
+    21300714: RECOVER_player-anim.jpg0088
+    21300716: RECOVER_player-anim.jpg0089
+    21300718: RECOVER_player-anim.jpg0090
+    21300720: RECOVER_player-anim.jpg0091
+    21300722: RECOVER_player-anim.jpg0092
+    21300724: RECOVER_player-anim.jpg0093
+    21300726: RECOVER_player-anim.jpg0094
+    21300728: RECOVER_player-anim.jpg0095
+    21300730: RECOVER_player-anim.jpg0096
+    21300732: RECOVER_player-anim.jpg0097
+    21300734: RECOVER_player-anim.jpg0098
+    21300736: RECOVER_player-anim.jpg0099
+    21300738: RECOVER_player-anim.jpg0100
+    21300740: RECOVER_player-anim.jpg0101
+    21300742: RECOVER_player-anim.jpg0102
+    21300744: RECOVER_player-anim.jpg0103
+    21300746: RECOVER_player-anim.jpg0104
+    21300748: RECOVER_player-anim.jpg0105
+    21300750: RECOVER_player-anim.jpg0106
+    21300752: RECOVER_player-anim.jpg0107
+    21300754: RECOVER_player-anim.jpg0108
+    21300756: RECOVER_player-anim.jpg0109
+    21300758: RECOVER_player-anim.jpg0110
+    21300760: RECOVER_player-anim.jpg0111
+    21300762: RECOVER_player-anim.jpg0112
+    21300764: RECOVER_player-anim.jpg0113
+    21300766: RECOVER_player-anim.jpg0114
+    21300768: RECOVER_player-anim.jpg0115
+    21300770: RECOVER_player-anim.jpg0116
+    21300772: RECOVER_player-anim.jpg0117
+    21300774: RECOVER_player-anim.jpg0118
+    21300776: RECOVER_player-anim.jpg0119
+    21300778: RECOVER_player-anim.jpg0120
+    21300780: RECOVER_player-anim.jpg0121
+    21300782: RECOVER_player-anim.jpg0122
+    21300784: RECOVER_player-anim.jpg0123
+    21300786: RECOVER_player-anim.jpg0124
+    21300788: RECOVER_player-anim.jpg0125
+    21300790: RECOVER_player-anim.jpg0126
+    21300792: RECOVER_player-anim.jpg0127
+    21300794: RECOVER_player-anim.jpg0128
+    21300796: RECOVER_player-anim.jpg0129
+    21300798: RECOVER_player-anim.jpg0130
+    21300800: RECOVER_player-anim.jpg0131
+    21300802: RECOVER_player-anim.jpg0132
+    21300804: RECOVER_player-anim.jpg0133
+    21300806: RECOVER_player-anim.jpg0134
+    21300808: RECOVER_player-anim.jpg0135
+    21300810: RECOVER_player-anim.jpg0136
+    21300812: RECOVER_player-anim.jpg0137
+    21300814: RECOVER_player-anim.jpg0138
+    21300816: RECOVER_player-anim.jpg0139
+    21300818: RECOVER_player-anim.jpg0140
+    21300820: RECOVER_player-anim.jpg0141
+    21300822: RECOVER_player-anim.jpg0142
+    21300824: RECOVER_player-anim.jpg0143
+    21300826: RECOVER_player-anim.jpg0144
+    21300828: RECOVER_player-anim.jpg0145
+    21300830: RECOVER_player-anim.jpg0146
+    21300832: RECOVER_player-anim.jpg0147
+    21300834: RECOVER_player-anim.jpg0148
+    21300836: RECOVER_player-anim.jpg0149
+    21300838: RECOVER_player-anim.jpg0150
+    21300840: RECOVER_player-anim.jpg0151
+    21300842: RECOVER_player-anim.jpg0152
+    21300844: RECOVER_player-anim.jpg0153
+    21300846: RECOVER_player-anim.jpg0154
+    21300848: RECOVER_player-anim.jpg0155
+    21300850: RECOVER_player-anim.jpg0156
+    21300852: RECOVER_player-anim.jpg0157
+    21300854: RECOVER_player-anim.jpg0158
+    21300856: RECOVER_player-anim.jpg0159
+    21300858: RECOVER_player-anim.jpg0160
+    21300860: RECOVER_player-anim.jpg0161
+    21300862: RECOVER_player-anim.jpg0162
+    21300864: RECOVER_player-anim.jpg0163
+    21300866: RECOVER_player-anim.jpg0164
+    21300868: RECOVER_player-anim.jpg0165
+    21300870: RECOVER_player-anim.jpg0166
+    21300872: RECOVER_player-anim.jpg0167
+    21300874: RECOVER_player-anim.jpg0168
+    21300876: RECOVER_player-anim.jpg0169
+    21300878: RECOVER_player-anim.jpg0170
+    21300880: RECOVER_player-anim.jpg0171
+    21300882: RECOVER_player-anim.jpg0172
+    21300884: RECOVER_player-anim.jpg0173
+    21300886: RECOVER_player-anim.jpg0174
+    21300888: RECOVER_player-anim.jpg0175
+    21300890: RECOVER_player-anim.jpg0176
+    21300892: RECOVER_player-anim.jpg0177
+    21300894: RECOVER_player-anim.jpg0178
+    21300896: RECOVER_player-anim.jpg0179
+    21300898: RECOVER_player-anim.jpg0180
+    21300900: RECOVER_player-anim.jpg0181
+    21300902: RECOVER_player-anim.jpg0182
+    21300904: RECOVER_player-anim.jpg0183
+    21300906: RECOVER_player-anim.jpg0184
+    21300908: RECOVER_player-anim.jpg0185
+    21300910: RECOVER_player-anim.jpg0186
+    21300912: RECOVER_player-anim.jpg0187
+    21300914: RECOVER_player-anim.jpg0188
+    21300916: RECOVER_player-anim.jpg0189
+    21300918: RECOVER_player-anim.jpg0190
+    21300920: RECOVER_player-anim.jpg0191
+    21300922: RECOVER_player-anim.jpg0192
+    21300924: RECOVER_player-anim.jpg0193
+    21300926: RECOVER_player-anim.jpg0194
+    21300928: RECOVER_player-anim.jpg0195
+    21300930: RECOVER_player-anim.jpg0196
+    21300932: RECOVER_player-anim.jpg0197
+    21300934: RECOVER_player-anim.jpg0198
+    21300936: RECOVER_player-anim.jpg0199
+    21300938: RECOVER_player-anim.jpg0200
+    21300940: RECOVER_player-anim.jpg0201
+    21300942: RECOVER_player-anim.jpg0202
+    21300944: RECOVER_player-anim.jpg0203
+    21300946: RECOVER_player-anim.jpg0204
+    21300948: RECOVER_player-anim.jpg0205
+    21300950: RECOVER_player-anim.jpg0206
+    21300952: RECOVER_player-anim.jpg0207
+    21300954: RECOVER_player-anim.jpg0208
+    21300956: RECOVER_player-anim.jpg0209
+    21300958: RECOVER_player-anim.jpg0210
+    21300960: RECOVER_player-anim.jpg0211
+    21300962: RECOVER_player-anim.jpg0212
+    21300964: RECOVER_player-anim.jpg0213
+    21300966: RECOVER_player-anim.jpg0214
+    21300968: RECOVER_player-anim.jpg0215
+    21300970: RECOVER_player-anim.jpg0216
+    21300972: RECOVER_player-anim.jpg0217
+    21300974: RECOVER_player-anim.jpg0218
+    21300976: RECOVER_player-anim.jpg0219
+    21300978: RECOVER_player-anim.jpg0220
+    21300980: RECOVER_player-anim.jpg0221
+    21300982: RECOVER_player-anim.jpg0222
+    21300984: RECOVER_player-anim.jpg0223
+    21300986: RECOVER_player-anim.jpg0224
+    21300988: RECOVER_player-anim0001
+    21300990: RECOVER_player-anim0002
+    21300992: RECOVER_player-anim0003
+    21300994: RECOVER_player-anim0004
+    21300996: RECOVER_player-anim0005
+    21300998: RECOVER_player-anim0006
+    21301000: RECOVER_player-anim0007
+    21301002: RECOVER_player-anim0008
+    21301004: RECOVER_player-anim0009
+    21301006: RECOVER_player-anim0010
+    21301008: RECOVER_player-anim0011
+    21301010: RECOVER_player-anim0012
+    21301012: RECOVER_player-anim0013
+    21301014: RECOVER_player-anim0014
+    21301016: RECOVER_player-anim0015
+    21301018: RECOVER_player-anim0016
+    21301020: RECOVER_player-anim0017
+    21301022: RECOVER_player-anim0018
+    21301024: RECOVER_player-anim0019
+    21301026: RECOVER_player-anim0020
+    21301028: RECOVER_player-anim0021
+    21301030: RECOVER_player-anim0022
+    21301032: RECOVER_player-anim0023
+    21301034: RECOVER_player-anim0024
+    21301036: RECOVER_player-anim0025
+    21301038: RECOVER_player-anim0026
+    21301040: RECOVER_player-anim0027
+    21301042: RECOVER_player-anim0028
+    21301044: RECOVER_player-anim0029
+    21301046: RECOVER_player-anim0030
+    21301048: RECOVER_player-anim0031
+    21301050: RECOVER_player-anim0032
+    21301052: RECOVER_player-anim0033
+    21301054: RECOVER_player-anim0034
+    21301056: RECOVER_player-anim0035
+    21301058: RECOVER_player-anim0036
+    21301060: RECOVER_player-anim0037
+    21301062: RECOVER_player-anim0038
+    21301064: RECOVER_player-anim0039
+    21301066: RECOVER_player-anim0040
+    21301068: RECOVER_player-anim0041
+    21301070: RECOVER_player-anim0042
+    21301072: RECOVER_player-anim0043
+    21301074: RECOVER_player-anim0044
+    21301076: RECOVER_player-anim0045
+    21301078: RECOVER_player-anim0046
+    21301080: RECOVER_player-anim0047
+    21301082: RECOVER_player-anim0048
+    21301084: RECOVER_player-anim0049
+    21301086: RECOVER_player-anim0050
+    21301088: RECOVER_player-anim0051
+    21301090: RECOVER_player-anim0052
+    21301092: RECOVER_player-anim0053
+    21301094: RECOVER_player-anim0054
+    21301096: RECOVER_player-anim0055
+    21301098: RECOVER_player-anim0056
+    21301100: RECOVER_player-anim0057
+    21301102: RECOVER_player-anim0058
+    21301104: RECOVER_player-anim0059
+    21301106: RECOVER_player-anim0060
+    21301108: RECOVER_player-anim0061
+    21301110: RECOVER_player-anim0062
+    21301112: RECOVER_player-anim0063
+    21301114: RECOVER_player-anim0064
+    21301116: RECOVER_player-anim0065
+    21301118: RECOVER_player-anim0066
+    21301120: RECOVER_player-anim0067
+    21301122: RECOVER_player-anim0068
+    21301124: RECOVER_player-anim0069
+    21301126: RECOVER_player-anim0070
+    21301128: RECOVER_player-anim0071
+    21301130: RECOVER_player-anim0072
+    21301132: RECOVER_player-anim0073
+    21301134: RECOVER_player-anim0074
+    21301136: RECOVER_player-anim0075
+    21301138: RECOVER_player-anim0076
+    21301140: RECOVER_player-anim0077
+    21301142: RECOVER_player-anim0078
+    21301144: RECOVER_player-anim0079
+    21301146: RECOVER_player-anim0080
+    21301148: RECOVER_player-anim0081
+    21301150: RECOVER_player-anim0082
+    21301152: RECOVER_player-anim0083
+    21301154: RECOVER_player-anim0084
+    21301156: RECOVER_player-anim0085
+    21301158: RECOVER_player-anim0086
+    21301160: RECOVER_player-anim0087
+    21301162: RECOVER_player-anim0088
+    21301164: RECOVER_player-anim0089
+    21301166: RECOVER_player-anim0090
+    21301168: RECOVER_player-anim0091
+    21301170: RECOVER_player-anim0092
+    21301172: RECOVER_player-anim0093
+    21301174: RECOVER_player-anim0094
+    21301176: RECOVER_player-anim0095
+    21301178: RECOVER_player-anim0096
+    21301180: RECOVER_player-anim0097
+    21301182: RECOVER_player-anim0098
+    21301184: RECOVER_player-anim0099
+    21301186: RECOVER_player-anim0100
+    21301188: RECOVER_player-anim0101
+    21301190: RECOVER_player-anim0102
+    21301192: RECOVER_player-anim0103
+    21301194: RECOVER_player-anim0104
+    21301196: RECOVER_player-anim0105
+    21301198: RECOVER_player-anim0106
+    21301200: RECOVER_player-anim0107
+    21301202: RECOVER_player-anim0108
+    21301204: RECOVER_player-anim0109
+    21301206: RECOVER_player-anim0110
+    21301208: RECOVER_player-anim0111
+    21301210: RECOVER_player-anim0112
+    21301212: RECOVER_player-anim0113
+    21301214: RECOVER_player-anim0114
+    21301216: RECOVER_player-anim0115
+    21301218: RECOVER_player-anim0116
+    21301220: RECOVER_player-anim0117
+    21301222: RECOVER_player-anim0118
+    21301224: RECOVER_player-anim0119
+    21301226: RECOVER_player-anim0120
+    21301228: RECOVER_player-anim0121
+    21301230: RECOVER_player-anim0122
+    21301232: RECOVER_player-anim0123
+    21301234: RECOVER_player-anim0124
+    21301236: RECOVER_player-anim0125
+    21301238: RECOVER_player-anim0126
+    21301240: RECOVER_player-anim0127
+    21301242: RECOVER_player-anim0128
+    21301244: RECOVER_player-anim0129
+    21301246: RECOVER_player-anim0130
+    21301248: RECOVER_player-anim0131
+    21301250: RECOVER_player-anim0132
+    21301252: RECOVER_player-anim0133
+    21301254: RECOVER_player-anim0134
+    21301256: RECOVER_player-anim0135
+    21301258: RECOVER_player-anim0136
+    21301260: RECOVER_player-anim0137
+    21301262: RECOVER_player-anim0138
+    21301264: RECOVER_player-anim0139
+    21301266: RECOVER_player-anim0140
+    21301268: RECOVER_player-anim0141
+    21301270: RECOVER_player-anim0142
+    21301272: RECOVER_player-anim0143
+    21301274: RECOVER_player-anim0144
+    21301276: RECOVER_player-anim0145
+    21301278: RECOVER_player-anim0146
+    21301280: RECOVER_player-anim0147
+    21301282: RECOVER_player-anim0148
+    21301284: RECOVER_player-anim0149
+    21301286: RECOVER_player-anim0150
+    21301288: RECOVER_player-anim0151
+    21301290: RECOVER_player-anim0152
+    21301292: RECOVER_player-anim0153
+    21301294: RECOVER_player-anim0154
+    21301296: RECOVER_player-anim0155
+    21301298: RECOVER_player-anim0156
+    21301300: RECOVER_player-anim0157
+    21301302: RECOVER_player-anim0158
+    21301304: RECOVER_player-anim0159
+    21301306: RECOVER_player-anim0160
+    21301308: RECOVER_player-anim0161
+    21301310: RECOVER_player-anim0162
+    21301312: RECOVER_player-anim0163
+    21301314: RECOVER_player-anim0164
+    21301316: RECOVER_player-anim0165
+    21301318: RECOVER_player-anim0166
+    21301320: RECOVER_player-anim0167
+    21301322: RECOVER_player-anim0168
+    21301324: RECOVER_player-anim0169
+    21301326: RECOVER_player-anim0170
+    21301328: RECOVER_player-anim0171
+    21301330: RECOVER_player-anim0172
+    21301332: RECOVER_player-anim0173
+    21301334: RECOVER_player-anim0174
+    21301336: RECOVER_player-anim0175
+    21301338: RECOVER_player-anim0176
+    21301340: RECOVER_player-anim0177
+    21301342: RECOVER_player-anim0178
+    21301344: RECOVER_player-anim0179
+    21301346: RECOVER_player-anim0180
+    21301348: RECOVER_player-anim0181
+    21301350: RECOVER_player-anim0182
+    21301352: RECOVER_player-anim0183
+    21301354: RECOVER_player-anim0184
+    21301356: RECOVER_player-anim0185
+    21301358: RECOVER_player-anim0186
+    21301360: RECOVER_player-anim0187
+    21301362: RECOVER_player-anim0188
+    21301364: RECOVER_player-anim0189
+    21301366: RECOVER_player-anim0190
+    21301368: RECOVER_player-anim0191
+    21301370: RECOVER_player-anim0192
+    21301372: RECOVER_player-anim0193
+    21301374: RECOVER_player-anim0194
+    21301376: RECOVER_player-anim0195
+    21301378: RECOVER_player-anim0196
+    21301380: RECOVER_player-anim0197
+    21301382: RECOVER_player-anim0198
+    21301384: RECOVER_player-anim0199
+    21301386: RECOVER_player-anim0200
+    21301388: RECOVER_player-anim0201
+    21301390: RECOVER_player-anim0202
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RECOVER_player-anim0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0012
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0013
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0014
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0015
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0016
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0017
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0018
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0019
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0020
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0021
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0022
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0023
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0024
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0025
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0026
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0027
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0028
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0029
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0030
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0031
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0032
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0033
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0034
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0035
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0036
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0037
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0038
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0039
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0040
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0041
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0042
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0043
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0044
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0045
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0046
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0047
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0048
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0049
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0050
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0051
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0052
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0053
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0054
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0055
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0056
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0057
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0058
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0059
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 837
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0060
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0061
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0062
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0063
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0064
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0065
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0066
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0067
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0068
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0069
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0070
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0071
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0072
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0073
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0074
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0075
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0076
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0077
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0078
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0079
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0080
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0081
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0082
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0083
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0084
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0085
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0086
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0087
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0088
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0089
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0090
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0091
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 743
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0092
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0093
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0094
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0095
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0096
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0097
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0098
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0099
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0100
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0101
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0102
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0104
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0105
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0106
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0107
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0108
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0109
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0110
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0111
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0112
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0113
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0114
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0115
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0116
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0118
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0119
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0120
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0121
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0122
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0123
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0124
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0125
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0126
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0127
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0128
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0129
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0130
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0131
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0132
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0133
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0134
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0135
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0136
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0137
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0138
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0139
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0140
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0141
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0142
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0143
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0144
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 649
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0145
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0146
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0147
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0148
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 555
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0149
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0150
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0151
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0152
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0153
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0154
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0155
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0156
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0157
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 461
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0158
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0159
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0160
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0161
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 85
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0162
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0163
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0164
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0165
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0166
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 367
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0167
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0168
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 273
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 179
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RECOVER_player-anim0171
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 931
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -58,7 +58,7 @@
         <key>jxrCompressionLevel</key>
         <uint>0</uint>
         <key>ditherType</key>
-        <enum type="SettingsBase::DitherType">NearestNeighbour</enum>
+        <enum type="SettingsBase::DitherType">PngQuantLow</enum>
         <key>backgroundColor</key>
         <uint>0</uint>
         <key>libGdx</key>
@@ -76,7 +76,7 @@
         <key>jpgQuality</key>
         <uint>80</uint>
         <key>pngOptimizationLevel</key>
-        <uint>1</uint>
+        <uint>0</uint>
         <key>webpQualityLevel</key>
         <uint>101</uint>
         <key>textureSubPath</key>
@@ -92,7 +92,7 @@
             <key>width</key>
             <int>2048</int>
             <key>height</key>
-            <int>2048</int>
+            <int>1024</int>
         </QSize>
         <key>fixedTextureSize</key>
         <QSize>
@@ -150,7 +150,7 @@
             <key>datafile</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>../../Assets/data/res/player.tpsheet</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -185,7 +185,7 @@
             <key>trimMargin</key>
             <uint>1</uint>
             <key>trimMode</key>
-            <enum type="SpriteSettings::TrimMode">Polygon</enum>
+            <enum type="SpriteSettings::TrimMode">CropKeepPos</enum>
             <key>tracerTolerance</key>
             <int>200</int>
             <key>heuristicMask</key>
@@ -196,9 +196,195 @@
             <true/>
         </struct>
         <key>individualSpriteSettings</key>
-        <map type="IndividualSpriteSettingsMap"/>
+        <map type="IndividualSpriteSettingsMap">
+            <key type="filename">RECOVER_player-anim0001.png</key>
+            <key type="filename">RECOVER_player-anim0002.png</key>
+            <key type="filename">RECOVER_player-anim0003.png</key>
+            <key type="filename">RECOVER_player-anim0004.png</key>
+            <key type="filename">RECOVER_player-anim0005.png</key>
+            <key type="filename">RECOVER_player-anim0006.png</key>
+            <key type="filename">RECOVER_player-anim0007.png</key>
+            <key type="filename">RECOVER_player-anim0008.png</key>
+            <key type="filename">RECOVER_player-anim0009.png</key>
+            <key type="filename">RECOVER_player-anim0010.png</key>
+            <key type="filename">RECOVER_player-anim0011.png</key>
+            <key type="filename">RECOVER_player-anim0012.png</key>
+            <key type="filename">RECOVER_player-anim0013.png</key>
+            <key type="filename">RECOVER_player-anim0014.png</key>
+            <key type="filename">RECOVER_player-anim0015.png</key>
+            <key type="filename">RECOVER_player-anim0016.png</key>
+            <key type="filename">RECOVER_player-anim0017.png</key>
+            <key type="filename">RECOVER_player-anim0018.png</key>
+            <key type="filename">RECOVER_player-anim0019.png</key>
+            <key type="filename">RECOVER_player-anim0020.png</key>
+            <key type="filename">RECOVER_player-anim0021.png</key>
+            <key type="filename">RECOVER_player-anim0022.png</key>
+            <key type="filename">RECOVER_player-anim0023.png</key>
+            <key type="filename">RECOVER_player-anim0024.png</key>
+            <key type="filename">RECOVER_player-anim0025.png</key>
+            <key type="filename">RECOVER_player-anim0026.png</key>
+            <key type="filename">RECOVER_player-anim0027.png</key>
+            <key type="filename">RECOVER_player-anim0028.png</key>
+            <key type="filename">RECOVER_player-anim0029.png</key>
+            <key type="filename">RECOVER_player-anim0030.png</key>
+            <key type="filename">RECOVER_player-anim0031.png</key>
+            <key type="filename">RECOVER_player-anim0032.png</key>
+            <key type="filename">RECOVER_player-anim0033.png</key>
+            <key type="filename">RECOVER_player-anim0034.png</key>
+            <key type="filename">RECOVER_player-anim0035.png</key>
+            <key type="filename">RECOVER_player-anim0036.png</key>
+            <key type="filename">RECOVER_player-anim0037.png</key>
+            <key type="filename">RECOVER_player-anim0038.png</key>
+            <key type="filename">RECOVER_player-anim0039.png</key>
+            <key type="filename">RECOVER_player-anim0040.png</key>
+            <key type="filename">RECOVER_player-anim0041.png</key>
+            <key type="filename">RECOVER_player-anim0042.png</key>
+            <key type="filename">RECOVER_player-anim0043.png</key>
+            <key type="filename">RECOVER_player-anim0044.png</key>
+            <key type="filename">RECOVER_player-anim0045.png</key>
+            <key type="filename">RECOVER_player-anim0046.png</key>
+            <key type="filename">RECOVER_player-anim0047.png</key>
+            <key type="filename">RECOVER_player-anim0048.png</key>
+            <key type="filename">RECOVER_player-anim0049.png</key>
+            <key type="filename">RECOVER_player-anim0050.png</key>
+            <key type="filename">RECOVER_player-anim0051.png</key>
+            <key type="filename">RECOVER_player-anim0052.png</key>
+            <key type="filename">RECOVER_player-anim0053.png</key>
+            <key type="filename">RECOVER_player-anim0054.png</key>
+            <key type="filename">RECOVER_player-anim0055.png</key>
+            <key type="filename">RECOVER_player-anim0056.png</key>
+            <key type="filename">RECOVER_player-anim0057.png</key>
+            <key type="filename">RECOVER_player-anim0058.png</key>
+            <key type="filename">RECOVER_player-anim0059.png</key>
+            <key type="filename">RECOVER_player-anim0060.png</key>
+            <key type="filename">RECOVER_player-anim0061.png</key>
+            <key type="filename">RECOVER_player-anim0062.png</key>
+            <key type="filename">RECOVER_player-anim0063.png</key>
+            <key type="filename">RECOVER_player-anim0064.png</key>
+            <key type="filename">RECOVER_player-anim0065.png</key>
+            <key type="filename">RECOVER_player-anim0066.png</key>
+            <key type="filename">RECOVER_player-anim0067.png</key>
+            <key type="filename">RECOVER_player-anim0068.png</key>
+            <key type="filename">RECOVER_player-anim0069.png</key>
+            <key type="filename">RECOVER_player-anim0070.png</key>
+            <key type="filename">RECOVER_player-anim0071.png</key>
+            <key type="filename">RECOVER_player-anim0072.png</key>
+            <key type="filename">RECOVER_player-anim0073.png</key>
+            <key type="filename">RECOVER_player-anim0074.png</key>
+            <key type="filename">RECOVER_player-anim0075.png</key>
+            <key type="filename">RECOVER_player-anim0076.png</key>
+            <key type="filename">RECOVER_player-anim0077.png</key>
+            <key type="filename">RECOVER_player-anim0078.png</key>
+            <key type="filename">RECOVER_player-anim0079.png</key>
+            <key type="filename">RECOVER_player-anim0080.png</key>
+            <key type="filename">RECOVER_player-anim0081.png</key>
+            <key type="filename">RECOVER_player-anim0082.png</key>
+            <key type="filename">RECOVER_player-anim0083.png</key>
+            <key type="filename">RECOVER_player-anim0084.png</key>
+            <key type="filename">RECOVER_player-anim0085.png</key>
+            <key type="filename">RECOVER_player-anim0086.png</key>
+            <key type="filename">RECOVER_player-anim0087.png</key>
+            <key type="filename">RECOVER_player-anim0088.png</key>
+            <key type="filename">RECOVER_player-anim0089.png</key>
+            <key type="filename">RECOVER_player-anim0090.png</key>
+            <key type="filename">RECOVER_player-anim0091.png</key>
+            <key type="filename">RECOVER_player-anim0092.png</key>
+            <key type="filename">RECOVER_player-anim0093.png</key>
+            <key type="filename">RECOVER_player-anim0094.png</key>
+            <key type="filename">RECOVER_player-anim0095.png</key>
+            <key type="filename">RECOVER_player-anim0096.png</key>
+            <key type="filename">RECOVER_player-anim0097.png</key>
+            <key type="filename">RECOVER_player-anim0098.png</key>
+            <key type="filename">RECOVER_player-anim0099.png</key>
+            <key type="filename">RECOVER_player-anim0100.png</key>
+            <key type="filename">RECOVER_player-anim0101.png</key>
+            <key type="filename">RECOVER_player-anim0102.png</key>
+            <key type="filename">RECOVER_player-anim0103.png</key>
+            <key type="filename">RECOVER_player-anim0104.png</key>
+            <key type="filename">RECOVER_player-anim0105.png</key>
+            <key type="filename">RECOVER_player-anim0106.png</key>
+            <key type="filename">RECOVER_player-anim0107.png</key>
+            <key type="filename">RECOVER_player-anim0108.png</key>
+            <key type="filename">RECOVER_player-anim0109.png</key>
+            <key type="filename">RECOVER_player-anim0110.png</key>
+            <key type="filename">RECOVER_player-anim0111.png</key>
+            <key type="filename">RECOVER_player-anim0112.png</key>
+            <key type="filename">RECOVER_player-anim0113.png</key>
+            <key type="filename">RECOVER_player-anim0114.png</key>
+            <key type="filename">RECOVER_player-anim0115.png</key>
+            <key type="filename">RECOVER_player-anim0116.png</key>
+            <key type="filename">RECOVER_player-anim0117.png</key>
+            <key type="filename">RECOVER_player-anim0118.png</key>
+            <key type="filename">RECOVER_player-anim0119.png</key>
+            <key type="filename">RECOVER_player-anim0120.png</key>
+            <key type="filename">RECOVER_player-anim0121.png</key>
+            <key type="filename">RECOVER_player-anim0122.png</key>
+            <key type="filename">RECOVER_player-anim0123.png</key>
+            <key type="filename">RECOVER_player-anim0124.png</key>
+            <key type="filename">RECOVER_player-anim0125.png</key>
+            <key type="filename">RECOVER_player-anim0126.png</key>
+            <key type="filename">RECOVER_player-anim0127.png</key>
+            <key type="filename">RECOVER_player-anim0128.png</key>
+            <key type="filename">RECOVER_player-anim0129.png</key>
+            <key type="filename">RECOVER_player-anim0130.png</key>
+            <key type="filename">RECOVER_player-anim0131.png</key>
+            <key type="filename">RECOVER_player-anim0132.png</key>
+            <key type="filename">RECOVER_player-anim0133.png</key>
+            <key type="filename">RECOVER_player-anim0134.png</key>
+            <key type="filename">RECOVER_player-anim0135.png</key>
+            <key type="filename">RECOVER_player-anim0136.png</key>
+            <key type="filename">RECOVER_player-anim0137.png</key>
+            <key type="filename">RECOVER_player-anim0138.png</key>
+            <key type="filename">RECOVER_player-anim0139.png</key>
+            <key type="filename">RECOVER_player-anim0140.png</key>
+            <key type="filename">RECOVER_player-anim0141.png</key>
+            <key type="filename">RECOVER_player-anim0142.png</key>
+            <key type="filename">RECOVER_player-anim0143.png</key>
+            <key type="filename">RECOVER_player-anim0144.png</key>
+            <key type="filename">RECOVER_player-anim0145.png</key>
+            <key type="filename">RECOVER_player-anim0146.png</key>
+            <key type="filename">RECOVER_player-anim0147.png</key>
+            <key type="filename">RECOVER_player-anim0148.png</key>
+            <key type="filename">RECOVER_player-anim0149.png</key>
+            <key type="filename">RECOVER_player-anim0150.png</key>
+            <key type="filename">RECOVER_player-anim0151.png</key>
+            <key type="filename">RECOVER_player-anim0152.png</key>
+            <key type="filename">RECOVER_player-anim0153.png</key>
+            <key type="filename">RECOVER_player-anim0154.png</key>
+            <key type="filename">RECOVER_player-anim0155.png</key>
+            <key type="filename">RECOVER_player-anim0156.png</key>
+            <key type="filename">RECOVER_player-anim0157.png</key>
+            <key type="filename">RECOVER_player-anim0158.png</key>
+            <key type="filename">RECOVER_player-anim0159.png</key>
+            <key type="filename">RECOVER_player-anim0160.png</key>
+            <key type="filename">RECOVER_player-anim0161.png</key>
+            <key type="filename">RECOVER_player-anim0162.png</key>
+            <key type="filename">RECOVER_player-anim0163.png</key>
+            <key type="filename">RECOVER_player-anim0164.png</key>
+            <key type="filename">RECOVER_player-anim0165.png</key>
+            <key type="filename">RECOVER_player-anim0166.png</key>
+            <key type="filename">RECOVER_player-anim0167.png</key>
+            <key type="filename">RECOVER_player-anim0168.png</key>
+            <key type="filename">RECOVER_player-anim0169.png</key>
+            <key type="filename">RECOVER_player-anim0170.png</key>
+            <key type="filename">RECOVER_player-anim0171.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>19,25,37,50</rect>
+                <key>scale9Paddings</key>
+                <rect>19,25,37,50</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+        </map>
         <key>fileList</key>
-        <array/>
+        <array>
+            <filename>.</filename>
+        </array>
         <key>ignoreFileList</key>
         <array/>
         <key>replaceList</key>

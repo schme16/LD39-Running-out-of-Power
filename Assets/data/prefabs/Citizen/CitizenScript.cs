@@ -11,7 +11,11 @@ public class CitizenScript : MonoBehaviour {
 	public float x;
 	public float y;
 
+	
+	public float sadness;
+
 	private Rand rand;
+	private float timer;
 
 
 
@@ -39,10 +43,20 @@ public class CitizenScript : MonoBehaviour {
 		//Position
 		transform.localPosition = new Vector2(x, y);
 
+
 	}
 	
 
 	void Update () {
-		
+		if (timer > 1) {
+			timer = 0;
+			int test = rand.In(0, 5);
+			if (test == 5) {
+				int angle = rand.In(0, 3) * 90;
+				transform.eulerAngles = new Vector3(0, 0, angle);
+			}
+		}
+
+		timer += Time.deltaTime;
 	}
 }

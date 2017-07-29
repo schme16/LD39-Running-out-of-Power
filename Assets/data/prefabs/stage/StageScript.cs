@@ -25,6 +25,7 @@ public class StageScript : MonoBehaviour {
 
 		CreateCitizen((float)rand.In(-30,30) *0.1f, (float)rand.In(-30,30) * 0.1f, rand.In(0,1) == 1);
 
+
 	}
 
 	void CreateCitizen (float x, float y, bool gender) {
@@ -32,6 +33,7 @@ public class StageScript : MonoBehaviour {
 		c.gender = gender;
 		c.x = x;
 		c.y = y;
+		c.sadness = rand.In(10, 100);
 	}
 
 

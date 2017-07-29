@@ -2,8 +2,11 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/data/res/player.tpsheet
+- Assets/data/res/tileset-1.tpsheet
 textureFileNames:
 - Assets/data/res/player.png
+- Assets/data/res/tileset-1.png
 normalmapFileNames:
+- 
 - 
 enableDebugOutput: 0

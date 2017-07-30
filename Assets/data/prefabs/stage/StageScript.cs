@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Com.LuisPedroFonseca.ProCamera2D;
 using UnityEngine;
+using TMPro;
 
 public class StageScript : MonoBehaviour {
 
@@ -10,10 +11,23 @@ public class StageScript : MonoBehaviour {
 	public PlayerScript player;
 	public PowerBarScript PowerBar;
 	public GameObject baseCitizen;
+	
 
-	public GameObject CititzenSpawnLocations;
-	public GameObject CitizenStage;
 	public GameObject Map;
+	public GameObject PlayingCanvas;
+	public GameObject Citizens;
+	public GameObject MainMenu;
+	public GameObject GameOverText;
+	public GameObject GameOverButton;
+	public GameObject GameOverScore;
+	public GameObject PlayButton;
+	public float score = 0f;
+
+
+	
+
+	public GameObject CitizenStage;
+	public GameObject CititzenSpawnLocations;
 	public AudioClip[] Compliments;
 
 	public ComplimentBoxScript ComplimentBox;
@@ -40,12 +54,16 @@ public class StageScript : MonoBehaviour {
 		rand = new Rand();
 		cam = Camera.main;
 		camTrans = cam.GetComponent<ProCamera2DTransitionsFX>();
-		NewGame(true);
+		
+
+		ShowMainMenu(true);
 	}
 
 	void NewGame (bool FirstRun) {
+		score = 0;
 		player.PowerLevel = 100f;
 		player.PowerLevelDrainRate = 5f;
+		player.transform.localPosition = new Vector2(-7.906f, 0.157f);
 
 		float x = 2;
 		float y = 2;
@@ -56,13 +74,30 @@ public class StageScript : MonoBehaviour {
 		camTrans.TransitionEnter();
 	}
 
+	void StartNewGame () {
+		ShowMainMenu(false);
+		NewGame(true);
+	}
+
 	void GameOver () {
 		state = "gameover";
 		camTrans.TransitionExit();
+		GameOverText.SetActive(true);
+		GameOverButton.SetActive(true);
+		GameOverScore.SetActive(true);
+		GameOverScore.GetComponent<TextMeshProUGUI>().SetText(score.ToString());
+		PlayButton.SetActive(false);
+		Invoke("ShowMainMenu", 0.6f);
 	}
 
 	void ShowMainMenu () {
-		state = "mainmenu";
+		ShowMainMenu(true);
+	}
+	void ShowMainMenu (bool set) {
+		state = set ? "mainmenu" : "playing";
+		camTrans.TransitionEnter();
+		player.gameObject.transform.parent.gameObject.SetActive(!set);
+		MainMenu.SetActive(set);
 	}
 
 	CitizenScript CreateCitizen (float x, float y, bool gender) {
@@ -78,13 +113,13 @@ public class StageScript : MonoBehaviour {
 	void CreateCitizens () {
 		string citizenLocations = "";
 		string usedCompliments = "";
-		int numCitizens = rand.In(4, CititzenSpawnLocations.transform.childCount);
+		int numCitizens = rand.In(4, CititzenSpawnLocations.transform.childCount - 1);
 
 		for (int i = 0; i < numCitizens; i++) {
 
-			int checkLoc = rand.In(0, numCitizens-1);
+			int checkLoc = rand.In(0, CititzenSpawnLocations.transform.childCount - 1);
 			while (citizenLocations.Contains("-" + checkLoc + "-") == true) {
-				checkLoc = rand.In(0, numCitizens-1);
+				checkLoc = rand.In(0, CititzenSpawnLocations.transform.childCount - 1);
 			}
 			citizenLocations += ("-" + checkLoc + "-");
 			
@@ -113,6 +148,8 @@ public class StageScript : MonoBehaviour {
 	}
 
 	void Update () {
+		if (state == "playing") {
+
 			if (ComplimentBox.citizen != null && ComplimentBox.gameObject.activeInHierarchy && Input.GetKeyDown("space")) {
 				if (ComplimentBox.citizen.sadness > 0 && ComplimentBox.citizen.gameObject.AddComponent<AudioSource>().isPlaying == false) {
 					ComplimentBox.gameObject.SetActive(false);
@@ -121,10 +158,13 @@ public class StageScript : MonoBehaviour {
 					a.Play();
 				}
 			}
+			//Set powerbar
+			PowerBar.PowerLevel = player.PowerLevel;
+		}
 
+		if (state == "mainmenu") {
+		}
 
-		//Set powerbar
-		PowerBar.PowerLevel = player.PowerLevel;
 
 		if (player.PowerLevel == 0 && state == "playing") {
 			GameOver();
@@ -135,6 +175,7 @@ public class StageScript : MonoBehaviour {
 			if(!!a && !a.isPlaying) {
 				CitizenScript cScript = c.gameObject.GetComponent<CitizenScript>();
 				player.PowerLevel += cScript.sadness;
+				score += cScript.sadness;
 				cScript.sadness = 0;
 				Destroy(a);
 			}

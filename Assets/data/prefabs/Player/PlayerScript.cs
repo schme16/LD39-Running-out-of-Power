@@ -8,7 +8,7 @@ public class PlayerScript : MonoBehaviour {
 	public float y;
 	public float speed = 10f;
 	public GameObject sprite;
-	public float PowerLevel;
+	public float PowerLevel = 50;
 	public float PowerLevelDrainRate;
 	
 	private Rigidbody2D rb;
@@ -70,12 +70,12 @@ public class PlayerScript : MonoBehaviour {
 
 	void OnTriggerEnter2D (Collider2D col) {
 		if (col.transform.tag == "citizen") {
-			transform.parent.GetComponent<StageScript>().ShowComplimentBox(col.GetComponent<CitizenScript>());
+			transform.parent.transform.parent.GetComponent<StageScript>().ShowComplimentBox(col.GetComponent<CitizenScript>());
 		}
 	}
 
 	void OnTriggerExit2D (Collider2D col) {
-		transform.parent.GetComponent<StageScript>().HideComplimentBox(col.GetComponent<CitizenScript>());
+		transform.parent.transform.parent.GetComponent<StageScript>().HideComplimentBox(col.GetComponent<CitizenScript>());
 	}
 
 }

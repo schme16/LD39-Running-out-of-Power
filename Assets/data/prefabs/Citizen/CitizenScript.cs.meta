@@ -1,14 +1,11 @@
 fileFormatVersion: 2
 guid: 251904d86594ed6478369bd76594b8d6
-timeCreated: 1501309521
+timeCreated: 1501373982
 licenseType: Pro
 MonoImporter:
   serializedVersion: 2
   defaultReferences:
-  - shirt: {fileID: 1576873159290324, guid: 01a30b669bb92e7429789248a2f25031, type: 2}
-  - femaleHead: {fileID: 1608480893949778, guid: 4248bdb03cdcef64f932154b833021e9,
-      type: 2}
-  - maleHead: {fileID: 1420580178127328, guid: 6e9b6d66c3837144bae1cc1d1ef36980, type: 2}
+  - Emoji: {fileID: 1143518452107548, guid: 2509fd3f32c1d0f49b43aaa85cdcd744, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

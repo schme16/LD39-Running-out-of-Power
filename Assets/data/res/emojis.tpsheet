@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:8b0e7129c20b6c99822bf355a2cc6495:d19bd261e7b4b2ea717bc773614d489c:bde0efb38c8b5cd9245111e87dcc8e10$
+#
+:format=40300
+:texture=emojis.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+happy-emoji;1;403;298;298; 0.5;0.5; 0;0;0;0
+happy-normal-emoji;1;103;298;298; 0.5;0.5; 0;0;0;0
+sad-emoji;1;703;298;320; 0.5;0.5; 0;0;0;0

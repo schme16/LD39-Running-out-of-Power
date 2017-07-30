@@ -7,25 +7,33 @@ public class CitizenScript : MonoBehaviour {
 	public bool gender;
 	public GameObject[] shirts;
 	public GameObject[] heads;
+	public GameObject Emoji;
+
+	
 	
 	public float x;
 	public float y;
+	public AudioClip compliment;
 
-	
+
 	public float sadness;
+	public float sadnessRolling;
+	public float initialSadness;
 
 	private Rand rand;
-	private float timer;
+	public float timer;
 
 
 
 	private Rigidbody2D rb;
 	private GameObject head;
 	private GameObject shirt;
+	private GameObject emoji;
 
 	void Start () {
 		rand = new Rand();
 
+		timer = 0;
 		rb = gameObject.GetComponent<Rigidbody2D>();
 
 		//Shirt colour
@@ -44,16 +52,27 @@ public class CitizenScript : MonoBehaviour {
 		transform.localPosition = new Vector2(x, y);
 
 
+		//emoji
+		emoji = Instantiate(Emoji);
+		emoji.transform.parent = transform;
+		emoji.transform.localPosition = new Vector2(0, 0.12f);
+
+
+		sadnessRolling = sadness;
+		initialSadness = sadness;
 	}
 	
 
 	void Update () {
+		sadnessRolling = Mathf.Lerp(sadnessRolling, sadness, 0.003f);
 		if (timer > 1) {
 			timer = 0;
 			int test = rand.In(0, 5);
 			if (test == 5) {
 				int angle = rand.In(0, 3) * 90;
-				transform.eulerAngles = new Vector3(0, 0, angle);
+				head.transform.eulerAngles = new Vector3(0, 0, angle);
+				shirt.transform.eulerAngles = new Vector3(0, 0, angle);
+				
 			}
 		}
 

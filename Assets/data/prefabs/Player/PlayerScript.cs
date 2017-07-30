@@ -66,6 +66,16 @@ public class PlayerScript : MonoBehaviour {
 
 
 		PowerLevel = Mathf.Min(100, Mathf.Max(0, PowerLevel));
-
 	}
+
+	void OnTriggerEnter2D (Collider2D col) {
+		if (col.transform.tag == "citizen") {
+			transform.parent.GetComponent<StageScript>().ShowComplimentBox(col.GetComponent<CitizenScript>());
+		}
+	}
+
+	void OnTriggerExit2D (Collider2D col) {
+		transform.parent.GetComponent<StageScript>().HideComplimentBox(col.GetComponent<CitizenScript>());
+	}
+
 }

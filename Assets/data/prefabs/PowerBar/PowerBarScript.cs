@@ -29,7 +29,7 @@ public class PowerBarScript : MonoBehaviour {
 
 		FillSR.color = Color.Lerp(StartColour, EndColour, PowerLevel * 0.01f);
 		float x = ((FillMaxSize/100) * PowerLevel);
-		FillSR.size = new Vector2(x, FillSR.size.y);
+		FillSR.size = new Vector2(Mathf.Lerp(FillSR.size.x, x, 0.01f), FillSR.size.y);
 
 	}
 }
